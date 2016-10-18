@@ -7,8 +7,3 @@ body {
   z-index: 1;
   color: red;
 }
-
-.main-button {
-    background: blue;
-    font-style: italic;
-}
