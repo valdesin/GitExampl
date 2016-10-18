@@ -1,14 +1,3 @@
-header {
-background: #333;
-font-size: 20pt;
-}
+h1 {
 
-body {
-  z-index: 1;
-  color: red;
-}
-
-.main-button {
-    background: blue;
-    font-style: italic;
-}
+color: blue;

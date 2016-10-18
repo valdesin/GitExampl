@@ -1,9 +1,0 @@
-header {
-background: #333;
-font-size: 20pt;
-}
-
-body {
-  z-index: 1;
-  color: red;
-}
